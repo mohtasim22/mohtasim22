@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohtasim Fahim
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently studying CSE
+- 🌱 I’m currently studying CSE at BRAC University, Bangladesh
 - 📫 You can reach me at mohtasimfahim.com
 
 <!---
