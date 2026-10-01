@@ -1,5 +1,4 @@
 
-![](https://i.ibb.co/NFnW3sR/github-Banner.png)
 # Hi, I'm Mohtasim Fahim
 
 Full-stack developer from Bangladesh. I build web apps end to end with
